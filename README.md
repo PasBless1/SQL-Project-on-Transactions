@@ -2,7 +2,7 @@
 ### **Transaction Analysis using SQL**
 
 **Project Overview:**
-This SQL script, titled "Intermediate SQL completed.sql," represents my capabilities in handling more complex SQL queries and database management tasks. The project highlights my proficiency in SQL through various operations that enhance data retrieval, manipulation, and analysis. It showcases my ability to write efficient, effective SQL queries that can serve as a foundation for business intelligence and data analysis projects.
+This SQL script represents my capabilities in handling more complex SQL queries and database management tasks. The project highlights my proficiency in SQL through various operations that enhance data retrieval, manipulation, and analysis. It showcases my ability to write efficient, effective SQL queries that can serve as a foundation for business intelligence and data analysis projects.
 
 ---
 
